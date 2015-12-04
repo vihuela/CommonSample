@@ -1,4 +1,4 @@
-package com.hadlink.commonsample;
+package com.hadlink.commonsample.measure;
 
 import android.content.Context;
 import android.util.AttributeSet;
